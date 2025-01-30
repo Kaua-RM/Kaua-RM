@@ -23,6 +23,10 @@ Com sólida formação em programação, desenvolvimento web e banco de dados, p
 <img alt="Icone React" title = "Icone   React" align=left width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img alt="Icone Spring" title = "Icone   Spring" align=left width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
+<br>
+<br>
+
+---
 
 ### Biblioteca Pessoal 
 
