@@ -30,6 +30,6 @@ Com sólida formação em programação, desenvolvimento web e banco de dados, p
 
 ### Biblioteca Pessoal 
 
-<p> Nós repositorios do github , estou desenvolvendo uma biblioteca com todas as informações que eu possuo</p>
+<p> Nós repositorios do github , estou desenvolvendo uma biblioteca com todas as informações dos meus estudos </p>
 
 
